@@ -1,5 +1,5 @@
 ﻿/*
-1118 - 
+1118 - Várias Notas Com Validação
 
 Escreva um programa para ler as notas da primeira e a segunda avaliação de um aluno. Calcule e imprima a média semestral.
 O programa só deverá aceitar notas válidas (uma nota válida deve pertencer ao intervalo [0,10]). Cada nota deve ser validada separadamente.
